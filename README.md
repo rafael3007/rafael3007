@@ -1,13 +1,14 @@
 # Rafael Brito - Full Stack Developer & Data Analyst
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=200&h=200&q=80" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <!-- <img src="" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"> -->
 
   <h3>👋 Hi there! I'm Rafael</h3>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-brito-sampaio-88ab05196/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael3007)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.brito.1422@gmail.com)
+  [![Web](https://img.shields.io/website&logoColor=white)](https://develloper.rafaelbrito.site)
 </div>
 
 ## 🚀 About Me
@@ -19,9 +20,9 @@ I'm a passionate Full Stack Developer and Data Analyst with expertise in modern 
 ```javascript
 const skills = {
   frontend: ['React', 'TypeScript', 'Next.js', 'React Native', 'Tailwind CSS'],
-  backend: ['Node.js', 'NestJS', 'Express', 'FastAPI'],
-  databases: ['PostgreSQL', 'MongoDB', 'Redis'],
-  tools: ['Git', 'Docker', 'AWS', 'GraphQL'],
+  backend: ['Node.js', 'NestJS', 'Express'],
+  databases: ['PostgreSQL', 'MongoDB'],
+  tools: ['Git', 'Docker', 'AWS', 'Github', 'Firebase', 'GCP', 'AWS'],
   data: ['Python', 'SQL', 'Data Analysis', 'Machine Learning']
 };
 ```
@@ -57,8 +58,8 @@ const skills = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafael3007&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael3007&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Current Focus
@@ -70,12 +71,12 @@ const skills = {
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Rafael Brito](https://linkedin.com)
+- LinkedIn: [Rafael Brito](https://www.linkedin.com/in/rafael-brito-sampaio-88ab05196/)
 - Email: contact@example.com
-- Portfolio: [https://portfolio.example.com](https://portfolio.example.com)
+- Portfolio: [https://portfolio.example.com](https://develloper.rafaelbrito.site)
 
 ---
 
 <div align="center">
-  <i>⭐️ From [Rafael Brito](https://github.com/yourusername)</i>
+  <i>⭐️ From [Rafael Brito](https://github.com/rafael3007)</i>
 </div>
