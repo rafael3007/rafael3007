@@ -31,27 +31,27 @@ const skills = {
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px;" alt="Project 1"/>
+    <!-- <td align="center">
+      <img src="" width="100px;" alt="Project 1"/>
       <br />
       <strong>E-commerce Platform</strong>
       <br />
       React, Node.js, PostgreSQL
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px;" alt="Project 2"/>
+      <img src="" width="100px;" alt="Project 2"/>
       <br />
       <strong>Analytics Dashboard</strong>
       <br />
       React, D3.js, Python
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150" width="100px;" alt="Project 3"/>
+      <img src="" width="100px;" alt="Project 3"/>
       <br />
       <strong>Mobile App</strong>
       <br />
       React Native, TypeScript
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -72,11 +72,11 @@ const skills = {
 ## 📫 Get in Touch
 
 - LinkedIn: [Rafael Brito](https://www.linkedin.com/in/rafael-brito-sampaio-88ab05196/)
-- Email: contact@example.com
-- Portfolio: [https://portfolio.example.com](https://develloper.rafaelbrito.site)
+- Email: rafael.brito.1422@gmail.com
+- Portfolio: [https://develloper.rafaelbrito.site](https://develloper.rafaelbrito.site)
 
 ---
 
 <div align="center">
-  <i>⭐️ From [Rafael Brito](https://github.com/rafael3007)</i>
+  <i>⭐️ From [Rafael Brito](https://develloper.rafaelbrito.site)</i>
 </div>
