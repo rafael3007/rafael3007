@@ -3,7 +3,7 @@
 <div align="center">
   <!-- <img src="" alt="Profile" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;"> -->
 
-  <h3>👋 Hi there! I'm Rafael</h3>
+  <h3>👋 Olá! Eu sou Rafael</h3>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-brito-sampaio-88ab05196/)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafael3007)
@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer and Data Analyst with expertise in modern web technologies and data solutions. I love building scalable applications and turning complex data into meaningful insights.
+Sou um Full Stack Developer e Data Analyst apaixonado, com expertise em tecnologias modernas para desenvolvimento web e soluções de dados. Amo construir aplicações escaláveis e transformar dados complexos em insights valiosos.
 
 ### 💻 Tech Stack
 
@@ -64,10 +64,10 @@ const skills = {
 
 ## 🎯 Current Focus
 
-- Building scalable web applications
-- Exploring machine learning applications
-- Contributing to open-source projects
-- Sharing knowledge through technical writing
+- Construir aplicações web escaláveis
+- Explorar aplicações de machine learning
+- Contribuir para projetos open-source
+- Compartilhar conhecimento por meio de textos técnicos
 
 ## 📫 Get in Touch
 
